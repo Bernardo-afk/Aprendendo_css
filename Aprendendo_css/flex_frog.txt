@@ -1,0 +1,39 @@
+justify-content ( hotizontal)
+
+flex-start: Items align to the left side of the container.
+flex-end: Items align to the right side of the container.
+center: Items align at the center of the container.
+space-between: Items display with equal spacing between them.
+space-around:
+
+align-itens    (vertical) / align-self ( alinhar um específico)
+
+
+flex-start: Items align to the left side of the container.
+flex-end: Items align to the right side of the container.
+baseline 
+stretch 
+space-between: Items display with equal spacing between them.
+space-around:
+
+
+flex-direction 
+
+    row itens placed the same as the text direction
+    row-reverse 
+    column    items are placed top to bottom 
+    colum-reverse 
+    
+flex-wrap 
+
+nowrap : every item is fit to a single line 
+wrap : Items wrap around to additional lines 
+wrap-reverse
+
+flex-flow = flex-direction + flex-wrap 
+
+
+align-content ( determina o espaço entre as linhas )
+space-between 
+space-arrownd 
+

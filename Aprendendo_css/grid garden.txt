@@ -1,0 +1,24 @@
+
+Horizontal 
+grid-column-start : ( escolhe qual o será a referencia de inicio da grid)
+ grid-column-end : (escolher até onde X informação vai correr até X espaço da grid )  
+grid-column-end: span X ( define até o fim, partindo posição inicial)
+grid-column-start: span X 
+
+
+grid-column: start/end ; 
+grid-column: span s/e; 
+
+
+
+Vertical
+grid-row-start ; 
+grid-area: x / y / x2 / y2; (grid-row-start, grid-column-start, grid-row-end, followed by grid-column-end)
+
+
+grid-template-row : (px,% ou es) 
+grid-template-column : (px,% ou es)
+
+grid-template row/column: ; 
+
+dividir : 1fr 5fr (1/6 5/6)
